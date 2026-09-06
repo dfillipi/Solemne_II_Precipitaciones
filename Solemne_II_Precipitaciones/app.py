@@ -560,3 +560,10 @@ with st.expander(
         "Cantidad total de registros procesados:",
         len(df)
     )
+
+    st.markdown("### 👥 Integrantes")
+
+    st.write("• ADIL VILLABLANCA CUEVAS")
+    st.write("• ALAN AHUMADA ZAMORANO")
+    st.write("• DIEGO FILLIPI ARRIAGADA")
+    st.write("• JOAQUIN PEREZ VARGAS")
